@@ -10,7 +10,9 @@ mit Community-Forum, Chatbot und einem Partnermodus. Teamprojekt im Modul
 ## Demo
 
 
-https://github.com/user-attachments/assets/70958928-6b7e-41d5-9502-b6b7001ce78d
+https://github.com/user-attachments/assets/bba5e5cc-8d33-4178-9eb4-81e3e935b8a0
+
+
 
 
 
